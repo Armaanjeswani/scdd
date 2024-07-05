@@ -1,0 +1,1 @@
+create table hello(age int);
