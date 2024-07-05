@@ -1,0 +1,1 @@
+create table scdd(age int );
