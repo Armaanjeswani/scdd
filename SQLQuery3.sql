@@ -1,1 +1,2 @@
-create table scdd(age int );
+
+create table scddd(age int );
